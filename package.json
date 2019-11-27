@@ -1,0 +1,25 @@
+{
+  "name": "tenseflow",
+  "version": "1.0.0",
+  "description": "A package that gives tense of words",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Olanrewaju Olaboye",
+    "email": "eyiwumiolaboye@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "Amaechi JohnKingsley",
+      "email": "flavio@flaviocopes.com",
+      "url": "https://flaviocopes.com"
+    }
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "natural": "^0.6.3"
+  }
+}
