@@ -7,7 +7,7 @@ An NPM package for finding word tenses
 ```
 ## Installing Via NPM
 ```
-npm i tenseflow
+## npm i tenseflow
 ```
 ##Import into your project 
 const {tenseFlow} =  require('tenseflow');
