@@ -1,10 +1,24 @@
 # tenseflow
 An NPM package for finding word tenses
 
+
+
 ## Project setup
 ```
+## Installing Via NPM
+```
+npm i tenseflow
+```
+##Import into your project 
+const {tenseFlow} =  require('tenseflow');
 
-## cloning project
+or using ES6 Import syntax
+
+import {tenseFlow} from 'tenseflow'
+
+```
+
+## cloning project Via Github 
 ```
 
 git clone <project_link>

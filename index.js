@@ -46,7 +46,7 @@ const tenseFlow = (word)=> dictionary.find(({root})=>{
 })
 
 // For testing
-console.log(tenseFlow("wake").past, tenseFlow("shower").root)
+// console.log(tenseFlow("wake").past, tenseFlow("shower").root)
 
 module.exports = {
     tenseFlow
