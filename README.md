@@ -18,11 +18,11 @@ import {tenseFlow} from 'tenseflow'
 
 ## To check for past tense of a word
 
-tenseFlow('word').past;
+tenseFlow('come').past;
 
 ## To check for present tense of a word
 
-tenseFlow('word).root;
+tenseFlow('came').root;
 
 ```
 
