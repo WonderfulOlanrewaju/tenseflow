@@ -9,12 +9,20 @@ An NPM package for finding word tenses
 ```
 ## npm i tenseflow
 ```
-##Import into your project 
+## Import into your project 
 const {tenseFlow} =  require('tenseflow');
 
 or using ES6 Import syntax
 
 import {tenseFlow} from 'tenseflow'
+
+## To check for past tense of a word
+
+tenseFlow('word').past;
+
+## To check for present tense of a word
+
+tenseFlow('word).root;
 
 ```
 
