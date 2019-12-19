@@ -1,6 +1,6 @@
 {
   "name": "tenseflow",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "A package that gives tense of words",
   "main": "index.js",
   "scripts": {
